@@ -1,0 +1,1 @@
+This folder contains all the datafiles from the different AL/BO and IP methods. It also contains the final 611 common MOFs and the final 611 MOFs + Pressure data points for the final predictive model.
