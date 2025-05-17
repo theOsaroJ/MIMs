@@ -42,3 +42,8 @@ python3 src/al_bo.py \
   > output.txt
 ```
 
+For the inducing points, simply run:
+```bash
+python3 src/ip.py 
+  > output.txt
+```
