@@ -28,3 +28,9 @@ source venv/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
+
+python3 src/al_bo.py \
+  --acquisition ei \
+  --num_points_grid 500 1000 2000 5000 \
+  --query_size 1 \
+  > output.txt
