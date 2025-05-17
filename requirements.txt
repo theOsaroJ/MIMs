@@ -1,0 +1,14 @@
+# requirements.txt
+# Core numerical and data-handling libraries
+numpy>=1.23
+pandas>=1.5
+scipy>=1.10        # optimize, stats, spatial.distance
+
+# Machine-learning utilities
+scikit-learn>=1.3  # KMeans, train_test_split, metrics
+
+# Deep-learning back-end
+torch>=2.0         # CPU or CUDA build, as available
+
+# Plotting (backend only; no GUI required)
+matplotlib>=3.7
