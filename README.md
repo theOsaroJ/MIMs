@@ -34,3 +34,14 @@ python3 src/al_bo.py \
   --num_points_grid 500 1000 2000 5000 \
   --query_size 1 \
   > output.txt
+
+## 📝 Usage
+
+From the project root, invoke the script with your chosen options. For example:
+
+```bash
+python3 src/al_bo.py \
+  --acquisition ei \
+  --num_points_grid 500 1000 2000 5000 \
+  --query_size 1 \
+  > output.txt
