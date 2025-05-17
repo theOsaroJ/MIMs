@@ -28,4 +28,17 @@ source venv/bin/activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
+```
+
+---
+## 📝 Usage
+
+From the project root, invoke the script with your chosen options (acquisition functions). For example:
+```bash
+python3 src/al_bo.py \
+  --acquisition ei \
+  --num_points_grid 5000 \
+  --query_size 1 \
+  > output.txt
+```
 
