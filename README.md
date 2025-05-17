@@ -1,7 +1,6 @@
 # MIMs
 
-A lightweight driver for Active Learning via Bayesian Optimization over user-defined grids.  
-Designed to run on anything—from local laptops to HPC clusters with SGE, SLURM, or PBS schedulers.
+A driver for Active Learning, Bayesian Optimization and Inducing Points.
 
 **Repository:** https://github.com/theOsaroJ/MIMs  
 **Source code:** https://github.com/theOsaroJ/MIMs/tree/main/src
