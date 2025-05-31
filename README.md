@@ -3,7 +3,7 @@
 A driver for Active Learning, Bayesian Optimization and Inducing Points.
 
 **Repository:** https://github.com/theOsaroJ/MIMs  
-**Source code:** https://github.com/theOsaroJ/MIMs/tree/main/src
+**Source code:** https://github.com/theOsaroJ/MIMs/tree/main/src  
 **Data files:** https://github.com/theOsaroJ/MIMs/tree/main/data
 
 ---
